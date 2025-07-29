@@ -6,8 +6,6 @@ public:
     Test() {
         cout << "Constructor called inside the class!" << endl;
     }
-
-   
 };
 int main() {
     cout << "Inside main()" << endl;
